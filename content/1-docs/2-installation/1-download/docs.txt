@@ -27,3 +27,4 @@ git clone --recursive https://github.com/getkirby/starterkit.git
 - PHP 5.3+
 - PHP mbstring extension for proper UTF-8 support
 - If they are not compiled into your PHP executable, you will also need the extensions: filter, session, json, and ctype.
+- optionally, you may need to install the extensions gd, mcrypt, simplexml, or curl for certain features
