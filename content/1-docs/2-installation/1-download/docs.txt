@@ -26,3 +26,4 @@ git clone --recursive https://github.com/getkirby/starterkit.git
 - Apache 2 with URL rewriting (mod_rewrite) or nginx
 - PHP 5.3+
 - PHP mbstring extension for proper UTF-8 support
+- If they are not compiled into your PHP executable, you will also need the extensions: filter, session, json, and ctype.
